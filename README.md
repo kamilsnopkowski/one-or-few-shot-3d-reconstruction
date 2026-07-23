@@ -43,4 +43,4 @@ The Excel files contain the collected experiment results:
 
 ## External Materials
 
-- Experiment results: [https://drive.google.com/drive/folders/1aigl2HDYsFkaPHm-5PpmWyUgdT2znGYT?usp=sharing]()
+- Experiment results: [Google Drive](https://drive.google.com/drive/folders/1aigl2HDYsFkaPHm-5PpmWyUgdT2znGYT?usp=sharing)
