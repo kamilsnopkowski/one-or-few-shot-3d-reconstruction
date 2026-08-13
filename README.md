@@ -49,6 +49,8 @@ The following Excel files contain the collected performance measurements:
 
 The [`quality_data.xlsx`](./quality_data.xlsx) spreadsheet contains details of the visual analysis of the reconstruction results conducted as part of the thesis.
 
+The [`quality_extras_data.xlsx`](./quality_extras_data.xlsx) spreadsheet contains a complementary comparison of selected scene subsets reconstructed from additional variants of the input image sets.
+
 ## External Materials
 
 - Experiment results and custom dataset: [Google Drive](https://drive.google.com/drive/folders/1aigl2HDYsFkaPHm-5PpmWyUgdT2znGYT?usp=sharing)
