@@ -47,6 +47,8 @@ The following Excel files contain the collected performance measurements:
 
 ## Qualitative Visual Analysis
 
+An interactive [demo used for the visual analysis](https://one-or-few-shot-3d-reconstruction.vercel.app/) is available online.
+
 The [`quality_data.xlsx`](./quality_data.xlsx) spreadsheet contains details of the visual analysis of the reconstruction results conducted as part of the thesis.
 
 The [`quality_extras_data.xlsx`](./quality_extras_data.xlsx) spreadsheet contains a complementary comparison of selected scene subsets reconstructed from additional variants of the input image sets.
